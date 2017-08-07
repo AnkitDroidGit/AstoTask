@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AstroAnkit</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_open</string>
+    <string name="favourite">Favourite</string>
+    <string name="all_channels">All Channels</string>
+    <string name="tv_guide">TV Guide</string>
+    <string name="now_showing">Now Showing</string>
+</resources>
